@@ -39,6 +39,8 @@ def get_next_coordinate(grid, location):
 
 def dfs_helper(grid, location, num_moves, prev_dir):
     """
+    I gave up on this one for now.
+    
     Parameters:
     - grid (list of lists): A 2D array representing the game board.
     - location (list): The current location of the traverser in the form (x, y).
